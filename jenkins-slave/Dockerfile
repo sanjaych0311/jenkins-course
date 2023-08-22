@@ -32,3 +32,6 @@ EXPOSE 22
 COPY entrypoint.sh /entrypoint.sh
 
 ENTRYPOINT ["/entrypoint.sh"]
+
+
+#new line added 
